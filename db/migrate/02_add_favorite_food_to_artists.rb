@@ -1,0 +1,1 @@
+AddFavoriteFoodToArtists< ActiveRecord::Base 
